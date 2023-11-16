@@ -7,9 +7,12 @@ This repository was create for my homwork 5:
 
 Additional homework
 3. Multiplying two matrices. Create two 3x3 arrays of integers (two matrices). Write a program to multiply two matrices.
-First array: {{1,0,0,0},{0,1,0,0},{0,0,0,0}}
-Second array: {{1,2,3},{1,1,1},{0,0,0},{2,1,0}}
+First array: {{1,0,0,0},{0,1,0,0},{0,0,0,0}};
+
+Second array: {{1,2,3},{1,1,1},{0,0,0},{2,1,0}};
+
 Expected result: 1 2 3 1 1 1 0 0 0
+
 4. Create a two-dimensional array of integers. Print the amount to the console all elements of the array.
 5. Create a two-dimensional array. Print array diagonals to console.
 6. Create a two-dimensional array of integers. Sort the elements into rows of a two-dimensional array in ascending order.
