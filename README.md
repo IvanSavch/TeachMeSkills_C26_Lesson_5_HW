@@ -6,6 +6,7 @@ This repository was create for my homwork 5:
 2. Create a program to color a chessboard using a loop. Create a two-dimensional 8x8 array of Strings. Using loops to set cycle elements have the values B(Black) or W(White).
 
 Additional homework
+
 3. Multiplying two matrices. Create two 3x3 arrays of integers (two matrices). Write a program to multiply two matrices.
 First array: {{1,0,0,0},{0,1,0,0},{0,0,0,0}};
 
